@@ -1,5 +1,5 @@
 This is my very first project ever
-So,obviously it aint that good.
+So,obviously it is obviously not good :)
 Pygame made for a hackathon.
 
 
